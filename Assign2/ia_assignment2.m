@@ -21,9 +21,9 @@ s1 = tr(pr,2);
 s1 = round(s1);
 
 gz1 = gz(pz,1);
-gz1 = round(gz1);
+%gz1 = round(gz1);
 gz2 = gz(pz,2);
-gz2 = round(gz2);
+%gz2 = round(gz2);
 
 gz_ = [gz1 gz2];
 
